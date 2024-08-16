@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rush3300&label=Profile%20views&color=0e75b6&style=flat" alt="rush3300" /> </p>
 
-- 🔭 I’m currently working on **Cancer-Detection Sysytem**
+- 🔭 I’m currently working on **Saline water level monitoring System**
 
 - 🌱 I’m currently learning **java**
 
