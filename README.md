@@ -1,12 +1,13 @@
-![logo](https://github.com/Rush3300/Rush3300/blob/main/RUSHIKA.png)
 <h1 align="center">Hi 👋, I'm Rushika Landage</h1>
 <h3 align="center">A passionate Software developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rush3300&label=Profile%20views&color=0e75b6&style=flat" alt="rush3300" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rush3300" alt="rush3300" /></a> </p>
+
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=rush3300&label=Profile%20views&color=0e75b6&style=flat](https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif)" alt="rush3300" /> </p>
-
-- 🔭 I’m currently working on **Saline water level monitoring System**
+- 🔭 I’m currently working on **Cancer-Detection Sysytem**
 
 - 🌱 I’m currently learning **java**
 
@@ -14,7 +15,7 @@
 
 - 📫 How to reach me **landagerushika1@gmail.com**
 
-- ⚡  **Feel free to talk to me.**
+- ⚡ Fun fact **Feel free to talk to me.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
