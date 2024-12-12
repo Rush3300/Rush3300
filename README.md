@@ -1,7 +1,7 @@
 ![logo](https://github.com/Rush3300/Rush3300/blob/main/RUSHIKA.png)
 <h1 align="center">Hi 👋, I'm Rushika Landage</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/202eb4c6-c55e-44ad-ac6c-1401f97355ac)">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
 <p align="left"> <img src="[https://komarev.com/ghpvc/?username=rush3300&label=Profile%20views&color=0e75b6&style=flat](https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif)" alt="rush3300" /> </p>
