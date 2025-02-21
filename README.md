@@ -6,7 +6,7 @@
 
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
-- 🔭 I’m currently working on **Saline Water Level Monitoring System**
+- 🔭 I’m currently working on **AI Image Generator Website using OpenAI**
 
 - 🌱 I’m currently learning **java**
 
