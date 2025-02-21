@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **landagerushika1@gmail.com**
 
-- ⚡ Fun fact **Feel free to talk to me.**
+- ⚡ **Feel free to talk to me.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
